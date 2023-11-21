@@ -20,3 +20,17 @@ Me encanta siempre **aprender** de cualquier experiencia que tengo, y estoy abie
 
 > Actualmente me encuentro estudiando **Java** y **JavaScript**, junto con otros lenguajes de programación para convertirme en un **developer**.
 <br>
+
+## Conocimientos de Servidores/Networks
+
+- Manejo de Hosting/VPS
+- Manejo de Dominios
+- Vinculación de Tienda Online Tebex/Buycraft
+- Seguridad Firewall,Anti-DDos/Anti-Bots
+- Correcta configuración de Networks *(Bungee-Puertos)*
+- Creación de modalidades 
+- Configuración de Cores
+- Traducción Profesional de plugins
+- Optimización y Mantenimiento
+- Limpieza de virus
+<br>
