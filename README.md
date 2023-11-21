@@ -7,6 +7,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/leur?style=social)](https://www.twitch.tv/leur)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Leur_)
 [![GitHub followers](https://img.shields.io/github/followers/leurcraft?style=social)](https://github.com/Leurcraft)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=51FF73&vCenter=true&random=false&width=500&lines=El+configurador+perfecto+para+ti...)](https://git.io/typing-svg)
 
 ## Sobre mi 🙋‍♂️ 
