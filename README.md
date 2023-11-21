@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Leur ;)</h1>
 </div>
-<!-- <img src="https://i.imgur.com/z8DeLrl.jpg"> -->
+ <img src="https://i.imgur.com/b3yzmfR.jpg"> 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1vR-imU678SJMLWGizWdAA?style=social)](https://www.youtube.com/@leurcraft?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/leur?style=social)](https://www.twitch.tv/leur)
