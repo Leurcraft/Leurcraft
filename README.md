@@ -12,25 +12,27 @@
 
 ## Sobre mi 🙋‍♂️ 
 
-Soy un configurador de Minecraft con más de **3 años de experiencia**, me enfoco principalmente en que al realizar cualquier tarea, busco dar mi mayor **esfuerzo** y **dedicación**.
+Soy un configurador de Minecraft con más de **3 años de experiencia**, al realizar cualquier tarea, por más simple o compleja que sea, me gusta dar mi mayor **esfuerzo** y **dedicación**.
 
-Aparte de mi trabajo en **servidores** y **networks** de minecraft, me encanta tener y trabajar en mis **propios proyectos**, pero también soy muy social, tengo muy buenas habilidades **comunicativas** y soy bueno trabajando en **equipo**.
+Aparte de mi trabajo en **servidores** y **networks** de minecraft, me encanta tener y trabajar en mis **propios proyectos*, al mismo tiempo, soy bueno trabajando en **equipo**, tengo muy buenas habilidades **comunicativas** y soy muy social.
 
-Me encanta siempre **aprender** de cualquier experiencia que tengo, y estoy abierto a cualquier **oportunidad** para **impulsarme** a avanzar en mi camino.
+Siempre me encata **aprender** de cualquier experiencia que tengo, y estoy abierto a cualquier **oportunidad** para **impulsarme** a avanzar en mi camino.
 
 > Actualmente me encuentro estudiando **Java** y **JavaScript**, junto con otros lenguajes de programación para convertirme en un **developer**.
 <br>
 
-## Conocimientos de Servidores/Networks
+## Conocimientos de Servidores/Networks 💻
 
-- Manejo de Hosting/VPS
-- Manejo de Dominios
-- Vinculación de Tienda Online Tebex/Buycraft
-- Seguridad Firewall,Anti-DDos/Anti-Bots
-- Correcta configuración de Networks *(Bungee-Puertos)*
-- Creación de modalidades 
-- Configuración de Cores
-- Traducción Profesional de plugins
-- Optimización y Mantenimiento
-- Limpieza de virus
+- 🐧 Manejo de Hosting/VPS *(Linux-Ubuntu)*
+- 🌐 Manejo de Dominios
+- ⚙️ Creación de rangos, ventajas y permisos 
+- 🛒 Vinculación de Tienda Online Tebex/Buycraft
+- 🛡️ Seguridad Firewall, Anti-DDos/Anti-Bots
+- 🔨 Correcta configuración de Networks *(Bungee-Puertos)*
+- 🔗 Creación de modalidades 
+- 📂 Configuración de Cores
+- ☁️ Base de datos MySQL
+- 🌎 Traducción Profesional de plugins
+- 🔧 Optimización y Mantenimiento
+- 🗑️ Limpieza de virus
 <br>
