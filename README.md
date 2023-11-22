@@ -3,8 +3,8 @@
 </div>
  <img src="https://i.imgur.com/b3yzmfR.jpg"> 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxt8c9CxCk9IjieMTRMJBEgl)](https://www.youtube.com/@leur_?sub_confirmation=1)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Leur_)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxt8c9CxCk9IjieMTRMJBEg)](https://www.youtube.com/@leur_?sub_confirmation=1)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Leur_)](https://twitter.com/intent/follow?screen_name=Leur_)
 [![GitHub followers](https://img.shields.io/github/followers/leurcraft?style=social)](https://github.com/Leurcraft)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=51FF73&vCenter=true&random=false&width=500&lines=El+configurador+perfecto+para+ti...)](https://git.io/typing-svg)
