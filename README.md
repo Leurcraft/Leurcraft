@@ -3,8 +3,7 @@
 </div>
  <img src="https://i.imgur.com/b3yzmfR.jpg"> 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1vR-imU678SJMLWGizWdAA?style=social)](https://www.youtube.com/@leurcraft?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/leur?style=social)](https://www.twitch.tv/leur)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxt8c9CxCk9IjieMTRMJBEgl)](https://www.youtube.com/@leur_?sub_confirmation=1)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Leur_)
 [![GitHub followers](https://img.shields.io/github/followers/leurcraft?style=social)](https://github.com/Leurcraft)
 
