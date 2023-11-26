@@ -15,7 +15,7 @@ Soy un configurador de Minecraft con más de **3 años de experiencia**, al real
 
 Aparte de mi trabajo en **servidores** y **networks** de minecraft, me encanta tener y trabajar en mis **propios proyectos**, al mismo tiempo, soy bueno trabajando en **equipo**, tengo muy buenas habilidades **comunicativas** y soy muy **social**.
 
-Siempre me encata **aprender** de cualquier experiencia que tengo, y estoy abierto a cualquier **oportunidad** para **impulsarme** a avanzar en mi **camino**.
+Siempre me encanta **aprender** de cualquier experiencia que tengo, y estoy abierto a cualquier **oportunidad** para **impulsarme** a avanzar en mi **camino**.
 
 > Actualmente me encuentro estudiando **Java** y **JavaScript**, junto con otros lenguajes de programación para convertirme en un **developer**.
 <br>
