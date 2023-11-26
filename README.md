@@ -35,3 +35,19 @@ Siempre me encata **aprender** de cualquier experiencia que tengo, y estoy abier
 - 🔧 Optimización y Mantenimiento
 - 🗑️ Limpieza de virus
 <br>
+
+## Mis Proyectos ⭐
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">SurviDeath Network 🌎</h3>
+<div align="center">
+<a href=""https://github.com/Leurcraft/SurviDeath-Network"><img src="https://i.imgur.com/VI3ZmwZ.jpg" width="400" alt="SurviDeath Network"></a>
+<p>
+<a href="https://github.com/Leurcraft/SurviDeath-Network" target="_blank">
+<img src="https://img.shields.io/badge/VER-5BECCA?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p> SurviDeath Network fue una network de Minecraft con diversas modalidades de juego y características únicas... </p>
+</div>
