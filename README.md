@@ -17,7 +17,7 @@ Aparte de mi trabajo en **servidores** y **networks** de minecraft, me encanta t
 
 Siempre me encanta **aprender** de cualquier experiencia que tengo, y estoy abierto a cualquier **oportunidad** para **impulsarme** a avanzar en mi **camino**.
 
-> Actualmente me encuentro estudiando **Java**  , junto con otros lenguajes de programación para convertirme en un **developer**.
+> Actualmente me encuentro estudiando **Java**, junto con otros lenguajes de programación para convertirme en un **developer**.
 <br>
 
 ## Conocimientos de Servidores/Networks 💻
