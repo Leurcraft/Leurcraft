@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Leur ;)</h1>
+<h1 align="center">¡Hola, soy Leur!</h1>
 </div>
  <img src="https://i.imgur.com/b3yzmfR.jpg"> 
 
@@ -11,13 +11,13 @@
 
 ## Sobre mi 🙋‍♂️ 
 
-Soy un configurador de Minecraft con más de **4 años de experiencia**, al realizar cualquier tarea, por más simple o compleja que sea, me gusta dar mi mayor **esfuerzo** y **dedicación**.
+Soy un configurador de Minecraft con más de **6 años de experiencia**, al realizar cualquier tarea, por más simple o compleja que sea, me gusta dar mi mayor **esfuerzo** y **dedicación**.
 
 Aparte de mi trabajo en **servidores** y **networks** de minecraft, me encanta tener y trabajar en mis **propios proyectos**, al mismo tiempo, soy bueno trabajando en **equipo**, tengo muy buenas habilidades **comunicativas** y soy muy **social**.
 
 Siempre me encanta **aprender** de cualquier experiencia que tengo, y estoy abierto a cualquier **oportunidad** para **impulsarme** a avanzar en mi **camino**.
 
-> Actualmente me encuentro estudiando **Java** y **JavaScript**, junto con otros lenguajes de programación para convertirme en un **developer**.
+> Actualmente me encuentro estudiando **Java**  , junto con otros lenguajes de programación para convertirme en un **developer**.
 <br>
 
 ## Conocimientos de Servidores/Networks 💻
