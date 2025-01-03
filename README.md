@@ -11,7 +11,7 @@
 
 ## Sobre mi 🙋‍♂️ 
 
-Soy un configurador de Minecraft con más de **6 años de experiencia**, al realizar cualquier tarea, por más simple o compleja que sea, me gusta dar mi mayor **esfuerzo** y **dedicación**.
+Soy un configurador de Minecraft con más de **5 años de experiencia**, al realizar cualquier tarea, por más simple o compleja que sea, me gusta dar mi mayor **esfuerzo** y **dedicación**.
 
 Aparte de mi trabajo en **servidores** y **networks** de minecraft, me encanta tener y trabajar en mis **propios proyectos**, al mismo tiempo, soy bueno trabajando en **equipo**, tengo muy buenas habilidades **comunicativas** y soy muy **social**.
 
